@@ -113,6 +113,11 @@ Education Admin Management System is a full-stack web application that enables c
    STRIPE_SECRET_KEY=your_stripe_secret_key
    STRIPE_PUBLISHABLE_KEY=your_stripe_publishable_key
    
+   # Cloudinary Configuration (Optional)
+   CLOUDINARY_CLOUD_NAME=your_cloudinary_cloud_name
+   CLOUDINARY_API_KEY=your_cloudinary_api_key
+   CLOUDINARY_API_SECRET=your_cloudinary_api_secret
+   
    # Server Configuration
    PORT=5000
    NODE_ENV=development
